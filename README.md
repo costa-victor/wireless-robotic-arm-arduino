@@ -14,8 +14,13 @@ O projeto consiste de 2 Módulos, conforme a imagem abaixo:
  
  O **Controle PS2** utilizado foi um controle sem fio, contudo, as conexões permanecem as mesmas da imagem abaixo.
  
- 
  ![](http://microcontrolado.com/wp-content/uploads/2013/02/pinagem-conector-playstation.png)
+ 
+ Para mais informações a respeito do funcionamento dos pinos, recomendo os materiais:
+ * [Funcionamento]( http://microcontrolado.com/controle-playstation-no-pic-2/)
+ 
+
+ 
  
  ![demonstration1](https://media.giphy.com/media/JTsvwLzcdkDZwfN1cp/giphy.gif)
  
