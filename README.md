@@ -14,6 +14,9 @@ O projeto consiste de 2 Módulos, conforme a imagem abaixo:
  
  O **Controle PS2** utilizado foi um controle sem fio, contudo, as conexões permanecem as mesmas da imagem abaixo.
  
+ 
+ ![](https://drive.google.com/file/d/14Ji8_4YW6JLXXm5vXYS06gW0BJnfIqKR/view?usp=sharing)
+ 
  ![demonstration1](https://media.giphy.com/media/JTsvwLzcdkDZwfN1cp/giphy.gif)
  
 ### Module 2:
@@ -34,6 +37,7 @@ Todos os movimentos acima são exibidos no **Display LCD**.
  - 01x Fonte ATX (simples)
 
  Neste projeto foi necessário utilizar um **Servo-Motor MG995** para a movimentação do **Braço** e outro para movimentação do **Antebraço** por conta da necessidade de maior torque dos motores para funcionar, enquanto para a **Garra** e a **Base** a utilização do **Servo-Motor SG90** foi suficiente.
+ 
  Para alimentação do **Module 2**  foi utilizado uma **Fonte ATX**, pois é permitido executar os 4 movimentos simultaneamente e a utilização de um regulador linear como o **LM7805** não é suficiente para a alimentação de todo o **Module 2**, pois durante a execução de movimentos combinados a corrente necessária foi superior à **2,5 A** e portanto caso desejar uma solução mais elegante que a utilização de uma **Fonte ATX**, sugiro utilizar um **Conversor DC/DC (Step Down) LM2596** ou similar.
 
 ### Integrantes: Victor Alberti Costa e Murilo Alves
