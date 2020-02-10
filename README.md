@@ -14,7 +14,7 @@ O projeto consiste de 2 Módulos, conforme a imagem abaixo:
  
  O **Controle PS2** utilizado foi um controle sem fio, contudo as conexões permanecem as mesmas da imagem abaixo.
  
- 
+ ![demonstration1](https://media.giphy.com/media/JTsvwLzcdkDZwfN1cp/giphy.gif)
  
 ### Module 2:
  A função do **Arduino** neste módulo é de receber os dados enviados do **Module 1** e com isso gerar instruções para o jogador através do **Display LCD** e ao mesmo tempo enviar um sinal PWM aos **Servo-motores** para assim mover o **Braço Robótico de 4 eixos impresso em 3D**  como desejar, dentro dos movimentos que os **Servo-motores** permitem e são eles:
