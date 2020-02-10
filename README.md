@@ -5,7 +5,7 @@ O projeto consiste de 2 Módulos, conforme a imagem abaixo:
 ![description](https://media.giphy.com/media/iF7Q4W4Bpecq1VxmoA/giphy.gif)
 
 ### Module 1:
- A função do **Arduino** neste módulo é de receber e interpretar os dados ao pressionar/mover algum de seus botões/analógico do **Controle de PS2** e armazenar os dados em uma struct contendo o estado de cada botão e enviar para o **Module 2** via **Wireless RF**.
+ A função do **Arduino** neste módulo é de receber e interpretar os dados ao pressionar/mover algum de seus botões/analógico do **Controle de PS2** e armazenar os dados em uma struct contendo o estado de cada botão e enviar para o **Module 2** via **Wireless RF** com o **NRF24L01**.
  
  **Hardware:**
  - 01x NRF24L01
@@ -16,8 +16,10 @@ O projeto consiste de 2 Módulos, conforme a imagem abaixo:
  
  ![](http://microcontrolado.com/wp-content/uploads/2013/02/pinagem-conector-playstation.png)
  
- Para mais informações a respeito do funcionamento dos pinos, recomendo os materiais:
- * [Funcionamento]( http://microcontrolado.com/controle-playstation-no-pic-2/)
+ Para mais informações sobre o **Module 1**, recomendo os materiais:
+ * [Como funciona os pinos do Controle PS2]( http://microcontrolado.com/controle-playstation-no-pic-2/)
+ * [Como funciona o NRF24L01]( https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/)
+ * [Documentação da Lib para o NRF24L01]( https://maniacbug.github.io/RF24/classRF24.html#aeb9920e7a95699748b003c4a839b0814)
  
 
  
