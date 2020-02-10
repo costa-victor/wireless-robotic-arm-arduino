@@ -4,7 +4,7 @@ Em resumo trata-se de um Braço robótico de 4 Eixos impresso em 3D controlado r
 
 ![description](https://media.giphy.com/media/iF7Q4W4Bpecq1VxmoA/giphy.gif)
 
-Os códigos comentados e todo o material necessário para criação e/ou continuação desde projeto estão contidos nesse repositório na pasta **Codes**.
+Os códigos comentados e todo o material necessário para criação e/ou continuação desde projeto estão contidos nesse repositório na pasta **Code**.
 
 A seguir você encontrará a descrição do funcionamento, referências, demonstração e dicas para aprimorar o projeto atual.
 
@@ -49,9 +49,9 @@ Todos os movimentos acima são exibidos no **Display LCD**.
  
 O projeto original, utilizado como base para montagem e adaptação em um braço robótico de 4 eixos que pode ser encontrado abaixo em **Montagem do Braço**, deste vários arquivos **STL** que compoêm o braço precisaram ser modificadas, pois o projeto original conta com uma **Bomba de Sucção**, que foi substituída por uma **Garra** e utilizada como referência o material abaixo **Garra adaptada**.
 
-Todas as alterações nos arquivos **STL** foram realizadas utilizando o software **Autocad 2012 Version Student** e estão contidos neste repositório na pasta **3D Files**.
+Todas as alterações nos arquivos **STL** foram realizadas utilizando o software **Autocad 2012 Student Version** e estão contidos neste repositório na pasta **3D Files**.
 
-Todas as substituições de peças do projeto original podem ser comparadas acessando o arquivo **Orçamento**.
+Todas as substituições de peças do projeto original podem ser comparadas acessando o arquivo **orçamento**.
 
  Para mais informações sobre o **Module 2**, recomendo os materiais:
  * [Documentação Lib Display LCD]( https://www.arduino.cc/en/Reference/LiquidCrystal)
@@ -62,6 +62,7 @@ Todas as substituições de peças do projeto original podem ser comparadas aces
  
 ### Demonstração/Resultado:
 Teste realizado antes de integrar com o montagem do braço impresso.
+
  ![demonstration1](https://media.giphy.com/media/JTsvwLzcdkDZwfN1cp/giphy.gif)
  
  
