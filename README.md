@@ -4,7 +4,7 @@
 ## Robotnik -> Equipe de robótica da UTFPR - Pato Branco
 O projeto consiste de 2 Módulos, conforme a imagem abaixo:
 
-![](https://media.giphy.com/media/QxXclVCoRKpM9Qc0xe/giphy.gif)
+![description](https://media.giphy.com/media/iF7Q4W4Bpecq1VxmoA/giphy.gif)
 
 
 
