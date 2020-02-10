@@ -64,6 +64,12 @@ Todas as substituições de peças do projeto original podem ser comparadas aces
 Teste realizado antes de integrar com o montagem do braço impresso.
 
  ![demonstration1](https://media.giphy.com/media/JTsvwLzcdkDZwfN1cp/giphy.gif)
+
+Finalizado a montagem.
+
+ ![final](https://i.ibb.co/st6G3wK/final.jpg)
+ 
+ E deixando o melhor para o final, tem também um [vídeo](https://www.youtube.com/watch?v=mlnH6SM9yyg) demonstrando o funcionamento após o termino da montagem.
  
  
 ### Integrantes: Victor Alberti Costa e Murilo Santos Alves
